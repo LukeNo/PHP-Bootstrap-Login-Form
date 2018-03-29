@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #cce5e5;
+    font-size: 1rem;
+}
+
+.navbar {
+    border-bottom: 3px solid #008ed6;
+    opacity: 0.95;
+}
+
+header {
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(img/dna-1811955_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#welcome {
+    color: #fff;
+    padding-top: 25vh;
+    
+}
+
+#form {
+    padding-top: 32vh;
+}
+
+#welcome h1,h2,h3 {
+    text-align: center;
+}
+
+#welcome ul {
+    padding-bottom: 10vh;
+    padding-top: 10vh;
+    font-size: 1.5rem;
+}
